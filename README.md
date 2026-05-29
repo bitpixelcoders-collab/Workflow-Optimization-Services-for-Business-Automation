@@ -77,7 +77,7 @@ Reporting and analytics automation are also important components of workflow opt
 
 Businesses can track:
 
-   .  Workflow efficiency
+   . Workflow efficiency
    . Team productivity
    . Customer interactions
    . Sales performance
